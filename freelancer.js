@@ -34,4 +34,4 @@ function addFreelancer() {
     cell3.innerHTML = randomPrice;
 }
 
-clearInterval(addFreelancer);
+clearInterval(addFreelancerInterval);
